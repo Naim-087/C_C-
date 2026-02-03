@@ -1,8 +1,15 @@
 #include<bits/stdc++.h>
 using namespace std;
-int main ()
-{
- cout<<"Hi"<<endl;
 
-return 0;
+int main()
+{
+
+    cout<<"Enter a number : "<<endl;
+    int n;
+    cin>>n;
+    for(int i =0;i<n;i++)
+    {
+      cout<<i<<endl;
+
+    }
 }
